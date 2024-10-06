@@ -17,8 +17,8 @@ Analisis kualitas layanan untuk situs https://akademik.unsri.ac.id menggunakan W
 | Request 5   | 1098.250874       | 1098.358144            |   0,1          |
 
 ## Packet Loss
-Packet Loss Rate= Jumlah Paket Hilang : Jumlah Paket Dikirim x 100% 
-                = 519 : 4122 x 100% = 5,9 %
+![Screenshot 2024-10-06 194146](https://github.com/user-attachments/assets/0fe8dee0-2a76-47ee-a5c7-a2f1b768190e)
+
 
 
 ## Througputh
